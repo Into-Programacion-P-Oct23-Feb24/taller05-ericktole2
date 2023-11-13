@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author StarMedia
+ * @author toled
  */
 public class Problema1 {
 
